@@ -3,7 +3,7 @@
 
 💪 I am ready to offer solutions and successfully implement them as part of a team
 
-🚀 I’ve mastered making systems stable and scalable, driving significant improvements in GitLab reliability, optimizing CI/CD pipelines, and saving over $10 million through infrastructure enhancements.
+🚀 I make GitLab stable and scalable, make significant improvements to reliability, optimize CI/CD pipelines. Saved my clients over $10 million by improving infrastructure.
 
 👨‍💻 I have 5 years of full time commercial experience
 
