@@ -1,5 +1,14 @@
 # 💫 About Me:
-🚀 Focused on Reliability: I specialize in making systems stable and scalable, particularly with GitLab, optimizing CI/CD pipelines, and building solid infrastructure.<br><br>🤝 What I Offer: Extensive experience in Site Reliability Engineering with deep expertise in GitLab, Kubernetes, and cloud-native environments. Ready to contribute to GitLab’s mission by enhancing infrastructure reliability.<br><br>🌐 Excited to Work On: Automating deployments, improving monitoring systems, and refining incident management to ensure top-notch performance and efficiency.<br><br>🔍 Currently Learning: Advanced Kubernetes techniques, cloud infrastructure optimization, and Golang to enhance GitLab's operations.<br><br>💡 Ask Me About: How I’ve improved system reliability, saved millions through optimization, and my approach to scaling infrastructure for growth.<br><br>🔧 Always Learning: Keeping up with the latest in cloud, containers, and DevOps to bring fresh ideas to GitLab.<br>
+🎓 I am Nikita Evseev. A Site Reliability Engineer (specializing in Gitlab Core services and Continues Integrations)
+
+💪 I am ready to offer solutions and successfully implement them as part of a team
+
+🚀 I’ve mastered making systems stable and scalable, driving significant improvements in GitLab reliability, optimizing CI/CD pipelines, and saving over $10 million through infrastructure enhancements.
+
+👨‍💻 I have 5 years of full time commercial experience
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png" width="15px" style="margin-right:10px;"> Living in **Belgrade** now 
+
 
 
 ## 🌐 Socials:
