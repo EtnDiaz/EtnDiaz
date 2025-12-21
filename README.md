@@ -1,17 +1,18 @@
 # 💫 About Me:
-🎓 I am Nikita Evseev. A Site Reliability Engineer (specializing in Gitlab Core services and Continues Integrations)
 
-💪 I am ready to offer solutions and successfully implement them as part of a team
+✨ I am Nikita. A Site Reliability Engineer (Gitlab Core services and Cloud Native)
 
-🚀 I make GitLab stable and scalable, make significant improvements to reliability, optimize CI/CD pipelines. Saved my clients over $10 million by improving infrastructure.
+✨ I Saved my clients over $10 million by improving infrastructure.
 
-👨‍💻 I have 5 years of full time commercial experience
+✨ In Infrastructure since 2019.
+
+✨ I'm too good in Kubernets (I'm not only in Infra and IaC, ofc I know how to write code for K8s  Scheduling Framework ).
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682361045048/796f4815-0594-4c35-99d9-65d3bfa4d53e.gif"
+     width="95px"
+     style="margin-right:25px;">
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/2560px-Flag_of_Serbia.svg.png" width="15px" style="margin-right:10px;"> Living in **Belgrade** now 
-
-
-
-
 
 ### ☁️ Clouds:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
