@@ -1,12 +1,7 @@
-# 💫 About Me:
-
-✨ I am Nikita. A Site Reliability Engineer (Gitlab Core services and Cloud Native)
-
-✨ I Saved my clients over $10 million by improving infrastructure.
+✨ I am Nikita. A Site Reliability Engineer 
 
 ✨ In Infrastructure since 2019.
 
-✨ I'm too good in Kubernets (I'm not only in Infra and IaC, ofc I know how to write code for K8s  Scheduling Framework ).
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682361045048/796f4815-0594-4c35-99d9-65d3bfa4d53e.gif"
      width="95px"
      style="margin-right:25px;">
